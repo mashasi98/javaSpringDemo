@@ -1,4 +1,4 @@
-package com.example.demo.product_ms.entity;
+package com.example.demo.product_ms.model.entity;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.persistence.*;
